@@ -1791,7 +1791,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$LR•IPV4•6『线路6』
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$LR•IPV6•73『线路54』
 重庆卫视,http://a21709.tv.netsite.cc/proxy/562106987/562106987.m3u8$LR•IPV4•73『线路55』
 重庆卫视,http://220.192.12.20:8003/udp/225.0.4.187:7980?$LR•IPV4•73『线路56』
-重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509082027/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•73『线路57』
+重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202509082237/app_2/_definst_/ls_2.stream/chunklist.m3u8$LR•IPV4•73『线路57』
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8$LR•IPV4•73『线路58』
 重庆卫视,http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8$LR•IPV4•73『线路59』
 重庆卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cqws$LR•IPV4•73『线路60』
