@@ -1,5 +1,6 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
+#EXTINF:-1,
 https://www.youtube.com/watch?v=pF507BLtbqU
 #Last refreshed on 2025-10-31 10:51:16.170884+08:00
+
 
