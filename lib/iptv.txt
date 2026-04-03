@@ -2644,11 +2644,11 @@ CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8$LR•IPV4
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv$LR•IPV4•23『线路16』
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv$LR•IPV4•23『线路17』
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•23『线路18』
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8$LR•IPV4•23『线路19』
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv$LR•IPV4•23『线路20』
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv$LR•IPV4•23『线路21』
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv$LR•IPV4•23『线路22』
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•23『线路23』
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$LR•IPV4•23『线路19』
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8$LR•IPV4•23『线路20』
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv$LR•IPV4•23『线路21』
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv$LR•IPV4•23『线路22』
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv$LR•IPV4•23『线路23』
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$LR•IPV4•7『线路1』
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$LR•IPV4•7『线路2』
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$LR•IPV4•7『线路3』
