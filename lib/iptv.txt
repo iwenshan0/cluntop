@@ -293,12 +293,12 @@ CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8$LR•IPV4•2『线路2』
 
 卫视,#genre#
-重温经典,http://112.27.235.94:8000/hls/50/index.m3u8$LR•IPV4•6『线路1』
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd$LR•IPV4•6『线路2』
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$LR•IPV4•6『线路3』
-重温经典,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887494.m3u8$LR•IPV4•6『线路4』
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8$LR•IPV4•6『线路5』
-重温经典,p3p://167.114.175.6:55331/65c5064800047df41ad1a47449e93b8b$LR•IPV4•6『线路6』
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd$LR•IPV4•6『线路1』
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$LR•IPV4•6『线路2』
+重温经典,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887494.m3u8$LR•IPV4•6『线路3』
+重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8$LR•IPV4•6『线路4』
+重温经典,p3p://167.114.175.6:55331/65c5064800047df41ad1a47449e93b8b$LR•IPV4•6『线路5』
+重温经典,http://112.27.235.94:8000/hls/50/index.m3u8$LR•IPV4•6『线路6』
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$LR•IPV4•2『线路1』
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8$LR•IPV4•2『线路2』
 星空卫视,http://114.105.187.77:9901/tsfile/live/0117_1.m3u8$LR•IPV4•7『线路1』
@@ -1020,15 +1020,15 @@ NewTV精品体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5739&tk=23a9aca1f79
 金鹰纪实,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8$LR•IPV4•86『线路84』
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-gao-qing-2.m3u8$LR•IPV4•86『线路85』
 金鹰纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6268&tk=23a9aca1f79f$LR•IPV4•86『线路86』
-快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001$LR•IPV4•25『线路1』
-快乐垂钓,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260723080355&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20260723080355&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e26493c80cf0d17e6247f28ee2a9cc7b&sv=10004&ct=android$LR•IPV4•25『线路2』
-快乐垂钓,http://47.104.178.59:3566/961930263$LR•IPV4•25『线路3』
-快乐垂钓,http://nas.hssvm.com:8888/udp/225.1.2.18:5002$LR•IPV4•25『线路4』
-快乐垂钓,https://migu.188766.xyz/?migutoken=396182b2a9b61dca2daded3fc6f62311&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy$LR•IPV4•25『线路5』
-快乐垂钓,http://182.61.15.84:80/961930263$LR•IPV4•25『线路6』
-快乐垂钓,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260723040350&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20260723040350&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f204ed19520526fbad2e69b82219b46d&sv=10004&ct=android$LR•IPV4•25『线路7』
-快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8968&tk=e640d0a1bf70$LR•IPV4•25『线路8』
-快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1275&tk=a0c4f6cfaba3$LR•IPV4•25『线路9』
+快乐垂钓,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260723080355&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20260723080355&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e26493c80cf0d17e6247f28ee2a9cc7b&sv=10004&ct=android$LR•IPV4•25『线路1』
+快乐垂钓,http://47.104.178.59:3566/961930263$LR•IPV4•25『线路2』
+快乐垂钓,http://nas.hssvm.com:8888/udp/225.1.2.18:5002$LR•IPV4•25『线路3』
+快乐垂钓,https://migu.188766.xyz/?migutoken=396182b2a9b61dca2daded3fc6f62311&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy$LR•IPV4•25『线路4』
+快乐垂钓,http://182.61.15.84:80/961930263$LR•IPV4•25『线路5』
+快乐垂钓,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260723040350&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20260723040350&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f204ed19520526fbad2e69b82219b46d&sv=10004&ct=android$LR•IPV4•25『线路6』
+快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8968&tk=e640d0a1bf70$LR•IPV4•25『线路7』
+快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1275&tk=a0c4f6cfaba3$LR•IPV4•25『线路8』
+快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001$LR•IPV4•25『线路9』
 快乐垂钓,http://home.wwang.pw:35455/itv/5000000011000031206.m3u8?cdn=bestzb$LR•IPV4•25『线路10』
 快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8530&tk=e503191f8e20$LR•IPV4•25『线路11』
 快乐垂钓,http://e1.woc.iiiya.cn:8888/rtp/239.61.3.8:9566$LR•IPV4•25『线路12』
@@ -3152,19 +3152,19 @@ NewTV精品体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5739&tk=23a9aca1f79
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$LR•IPV4•9『线路8』
 凤凰中文,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8$LR•IPV4•9『线路9』
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8$LR•IPV4•10『线路1』
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•10『线路2』
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$LR•IPV4•10『线路3』
-凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1$LR•IPV4•10『线路4』
-凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv$LR•IPV4•10『线路5』
-凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2$LR•IPV4•10『线路6』
+凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2$LR•IPV4•10『线路2』
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•10『线路3』
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$LR•IPV4•10『线路4』
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1$LR•IPV4•10『线路5』
+凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv$LR•IPV4•10『线路6』
 凤凰资讯,http://r.jdshipin.com/0Rp07$LR•IPV4•10『线路7』
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$LR•IPV4•10『线路8』
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$LR•IPV4•10『线路9』
 凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8$LR•IPV4•10『线路10』
-凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk$LR•IPV4•8『线路1』
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8$LR•IPV4•8『线路2』
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$LR•IPV4•8『线路3』
-凤凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d$LR•IPV4•8『线路4』
+凤凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d$LR•IPV4•8『线路1』
+凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk$LR•IPV4•8『线路2』
+凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8$LR•IPV4•8『线路3』
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$LR•IPV4•8『线路4』
 凤凰香港,http://r.jdshipin.com/yDoTN$LR•IPV4•8『线路5』
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$LR•IPV4•8『线路6』
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$LR•IPV4•8『线路7』
@@ -3227,9 +3227,9 @@ TVBS,http://seb.sason.top/sc/tvbsxw_fhd.m3u8$LR•IPV4•13『线路13』
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8$LR•IPV4•3『线路1』
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8$LR•IPV4•3『线路2』
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8$LR•IPV4•3『线路3』
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8$LR•IPV4•3『线路1』
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8$LR•IPV4•3『线路2』
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8$LR•IPV4•3『线路3』
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8$LR•IPV4•3『线路1』
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8$LR•IPV4•3『线路2』
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8$LR•IPV4•3『线路3』
 数位电影,p3p://167.114.175.6:55331/6223ae1b0007136f3e5c44280e3300fa$LR•IPV4
 龙华偶像,http://cdn8.163189.xyz/163189/lhox$LR•IPV4•3『线路1』
 龙华偶像,p3p://167.114.175.6:55331/609bb1b0000732744f174daa791d3b43$LR•IPV4•3『线路2』
@@ -3415,10 +3415,10 @@ RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32$LR•IPV4
 东森超视,rtmp://f13h.mine.nu/sat/tv331$LR•IPV4•3『线路3』
 ROCK Action,p3p://167.114.175.6:55331/65ad274400000b46bd92da681fce74f2$LR•IPV4•2『线路1』
 ROCK Action,http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8$LR•IPV4•2『线路2』
-TVB Plus,http://r.jdshipin.com/ndGgS$LR•IPV4•4『线路1』
-TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合$LR•IPV4•4『线路2』
-TVB Plus,p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1$LR•IPV4•4『线路3』
-TVB Plus,p3p://167.114.175.6:55331/653e4d3e000b344f0c91357e73163f82$LR•IPV4•4『线路4』
+TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合$LR•IPV4•4『线路1』
+TVB Plus,p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1$LR•IPV4•4『线路2』
+TVB Plus,p3p://167.114.175.6:55331/653e4d3e000b344f0c91357e73163f82$LR•IPV4•4『线路3』
+TVB Plus,http://r.jdshipin.com/ndGgS$LR•IPV4•4『线路4』
 AXN,p3p://167.114.175.6:55331/66d23a53000d25d573c606e3274f26c5$LR•IPV4•25『线路1』
 AXN,p3p://167.114.175.6:55331/6258ddc5000ee8a40e1bc8f50dec545c$LR•IPV4•25『线路2』
 AXN,http://45.190.28.50/AXN_HD/index.m3u8$LR•IPV4•25『线路3』
@@ -3784,8 +3784,8 @@ FIFA+,https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8$LR•IPV4•9『线路8』
 FIFA+,https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8$LR•IPV4•9『线路9』
 Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8$LR•IPV4•8『线路1』
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$LR•IPV4•8『线路2』
-Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$LR•IPV4•8『线路3』
+Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$LR•IPV4•8『线路2』
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$LR•IPV4•8『线路3』
 Newsmax,https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8$LR•IPV4•8『线路4』
 Newsmax,https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8$LR•IPV4•8『线路5』
 Newsmax,https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8$LR•IPV4•8『线路6』
@@ -3857,10 +3857,10 @@ MovieSphere,https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/pla
 MovieSphere,https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8$LR•IPV4•5『线路4』
 MovieSphere,https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8$LR•IPV4•5『线路5』
 香港国际财经,p3p://167.114.175.6:55331/64838620000cd8ed32fb0d6a414411f7$LR•IPV4
-Bloomberg,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8$LR•IPV4•16『线路1』
-Bloomberg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8$LR•IPV4•16『线路2』
-Bloomberg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8$LR•IPV4•16『线路3』
-Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8$LR•IPV4•16『线路4』
+Bloomberg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8$LR•IPV4•16『线路1』
+Bloomberg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8$LR•IPV4•16『线路2』
+Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8$LR•IPV4•16『线路3』
+Bloomberg,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8$LR•IPV4•16『线路4』
 Bloomberg,https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8$LR•IPV4•16『线路5』
 Bloomberg,http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8$LR•IPV4•16『线路6』
 Bloomberg,https://bloomberg.com/media-manifest/streams/aus.m3u8$LR•IPV4•16『线路7』
