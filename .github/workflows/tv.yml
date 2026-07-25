@@ -6,7 +6,7 @@ permissions:
   pull-requests: write      # 'write' access to pull requests
 
 on:
-  schedule:
+  # schedule:
     # - cron: '0 * * * *' # 每小时执行一次
   workflow_dispatch:    # 允许手动触发
 
