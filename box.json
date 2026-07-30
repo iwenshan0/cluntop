@@ -53,6 +53,16 @@
    "ext": "noproxy"
   },
   {
+   "key": "py_dsystv",
+   "name": "袋鼠影视[py]",
+   "type": 4,
+   "api": "./py/dsystv.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "{\"host\":\"https://dsystv.com\"}"
+  },
+  {
    "key": "1",
    "name": "--- 1 ---"
   },
@@ -1250,7 +1260,7 @@
  "danmaku": "https://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
  "disabled_wallpaper": "./img/0.jpg",
  "wallpaper": "./img/0.jpg",
- "spider": "./jar/xb.jar",
+ "spider": "./jar/yt.jar",
  "logo": "./img/pg.gif",
  "warningText": "1"
 }
