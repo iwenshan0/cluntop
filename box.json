@@ -77,6 +77,12 @@
    "filterable": 1
   },
   {
+   "key": "py_8kvod",
+   "name": "酷客[py]",
+   "type": 3,
+   "api": "./py/8kvod.py"
+  },
+  {
    "key": "py_libvio",
    "name": "LIBVIO[py]",
    "type": 3,
